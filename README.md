@@ -10,9 +10,9 @@ En este sprint se trabaja con Pandas para explorar, validar, transformar y anali
 
 ## Archivos
 
-- `Sprint_8.ipynb`: cuaderno completo con el desarrollo de los ejercicios.
-- `graficos/`: gráficos generados automáticamente con el dataset `penguins`.
-- `resultados/`: archivos CSV y Excel exportados por grupo profesional.
+- [Sprint_8.ipynb](./Sprint_8.ipynb): cuaderno completo con el desarrollo de los ejercicios.
+- [Gráficos](./graficos): gráficos generados automáticamente con el dataset `penguins`.
+- [Resultados](./resultados): archivos CSV y Excel exportados por grupo profesional.
 
 ## Herramientas utilizadas
 
