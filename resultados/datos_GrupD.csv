@@ -1,0 +1,41 @@
+Nom,Cognoms,DNI,País d'origen,Ciutat,Gènere,Data de Naixement,Salari mensual,Grup Professional,Càrrec,Nombre_fills,Te_cotxe,Km_anuals,Consum_mitja_L_100km,Temperatura_mitjana_ciutat,País,Cost_vida_index,Transport_public_score,Clima_tipus,resultado_union,Incremento_grupo,Incremento_hijos,Edat,Incremento_edad,Nivel_coste_vida,Incremento_coste_vida,Incremento_total,Salario_ajustado,Incremento_salarial_euros,Indice_dependencia_familiar,Ratio_salario_coste_vida
+Aina,Pérez,31172421Z,Espanya,Las Palmas de Gran Canaria,Home,1973-06-10,3672.0,Grup D,Cap de projecte,0,True,10800.0,12.9,22.0,Espanya,62.0,6.8,Subtropical,both,8.0,0.0,53,2.0,low,0.0,10.0,4039.2,367.2,4039.2,65.15
+Xavier,Muñoz Roca,21370793D,Espanya,València,,1983-03-20,3016.0,Grup D,Tècnic IT,0,False,,,15.1,Espanya,70.0,7.5,Mediterrani,both,8.0,0.0,43,1.0,medium,1.0,10.0,3317.6,301.6,3317.6,47.39
+Anna,Roca,64504816D,Espanya,Palma,Home,1977-08-08,2958.0,Grup D,Responsable de vendes,0,False,,,13.0,Espanya,73.0,7.2,Mediterrani,both,8.0,0.0,49,2.0,medium,1.0,11.0,3283.38,325.38,3283.38,44.98
+Oriol,Ramos,62780072Q,Espanya,València,Home,1989-01-03,3063.0,Grup D,Responsable de vendes,4,,,,18.1,Espanya,70.0,7.5,Mediterrani,both,8.0,1.5,37,1.0,medium,1.0,11.5,3415.24,352.24,683.05,48.79
+Noa,Ruiz Pérez,18113477L,Espanya,Murcia,,1990-08-12,2627.0,Grup D,Responsable de vendes,1,False,,,22.2,Espanya,60.0,6.5,Mediterrani,both,8.0,1.5,36,1.0,low,0.0,10.5,2902.84,275.84,1451.42,48.38
+Jordi,Álvarez,47561442Z,Espanya,Palma,Home,1971-03-09,3445.0,Grup D,Analista de dades,,False,,,19.3,Espanya,73.0,7.2,Mediterrani,both,8.0,0.0,55,2.0,medium,1.0,11.0,3823.95,378.95,,52.38
+Aina,Puig Álvarez,35489981X,Espanya,Bilbao,Dona,1995-12-19,3564.0,Grup D,Analista sènior,0,True,13870.0,25.0,11.1,Espanya,72.0,7.8,Oceànic,both,8.0,0.0,30,1.0,medium,1.0,10.0,3920.4,356.4,3920.4,54.45
+Alejandro,Sánchez Vidal,49034245Z,Espanya,Bilbao,Dona,1962-01-10,3026.0,Grup D,Administratiu,0,True,37506.0,13.9,13.5,Espanya,72.0,7.8,Oceànic,both,8.0,0.0,64,1.5,medium,1.0,10.5,3343.73,317.73,3343.73,46.44
+Leon,Müller,92189839F,Alemanya,Hamburg,Home,1975-10-19,3552.0,Grup D,Analista sènior,0,False,,,6.6,Alemanya,78.0,8.1,Oceànic,both,8.0,0.0,50,2.0,high,2.0,12.0,3978.24,426.24,3978.24,51.0
+Laia,Serra,77197151A,Espanya,Alacant,Home,1999-08-03,3615.0,Grup D,Analista de dades,4,False,,,19.4,Espanya,68.0,7.0,Mediterrani,both,8.0,1.5,27,0.0,medium,1.0,10.5,3994.58,379.58,798.92,58.74
+Adrià,Torres Fernández,45005058B,Espanya,Tarragona,Home,1959-06-29,2713.0,Grup D,Analista de dades,2,True,80000.0,25.0,18.5,Espanya,67.0,6.9,Mediterrani,both,8.0,1.5,67,1.5,medium,1.0,12.0,3038.56,325.56,1012.85,45.35
+Alexia,Romero Soler,40626070G,Espanya,Girona,Dona,1991-07-26,3162.0,Grup D,Tècnic IT,0,False,,,11.7,Espanya,66.0,6.8,Mediterrani,both,8.0,0.0,35,1.0,low,0.0,9.0,3446.58,284.58,3446.58,52.22
+Sara,Torres,31856387G,Espanya,Bilbao,Dona,,3133.0,Grup D,Analista de dades,0,False,,,11.5,Espanya,72.0,7.8,Oceànic,both,8.0,0.0,,0.0,medium,1.0,9.0,3414.97,281.97,3414.97,47.43
+Lena,Fischer,88673120W,Alemanya,Hamburg,Dona,1982-07-23,3284.0,Grup D,Analista sènior,1,False,,,15.0,Alemanya,78.0,8.1,Oceànic,both,8.0,1.5,44,1.0,high,2.0,12.5,3694.5,410.5,1847.25,47.37
+Alexia,Álvarez Casals,17258161Y,Espanya,A Coruña,Altres,1985-08-07,3128.0,Grup D,Analista,0,False,,,14.0,Espanya,69.0,7.1,Oceànic,both,8.0,0.0,41,1.0,medium,1.0,10.0,3440.8,312.8,3440.8,49.87
+Noa,Moreno Roca,68035365T,Espanya,València,Dona,1987-09-25,2746.0,Grup D,Tècnic IT,2,True,80000.0,12.5,16.0,Espanya,70.0,7.5,Mediterrani,both,8.0,1.5,39,1.0,medium,1.0,11.5,3061.79,315.79,1020.6,43.74
+Marta,Domènech,16415488X,Espanya,Bilbao,Dona,1973-05-15,3369.0,Grup D,Responsable de vendes,1,,,,16.6,Espanya,72.0,7.8,Oceànic,both,8.0,1.5,53,2.0,medium,1.0,12.5,3790.12,421.12,1895.06,52.64
+Hugo,David,40544052X,França,Nantes,Home,1997-09-24,3338.0,Grup D,Cap de projecte,0,True,,,11.8,,,,,left_only,8.0,0.0,29,0.0,,0.0,8.0,3605.04,267.04,3605.04,
+Lena,Schröder Schwarz,48546517K,Alemanya,Leipzig,Home,1982-05-16,2458.0,Grup D,Analista,1,,,,9.9,Alemanya,70.0,7.2,Continental,both,8.0,1.5,44,1.0,medium,1.0,11.5,2740.67,282.67,1370.34,39.15
+Alessandro,Barbieri,82745798H,Itàlia,Torino,,2001-05-19,3600.0,Grup D,Analista sènior,3,True,,,15.2,Itàlia,74.0,7.2,Continental,both,8.0,1.5,25,0.0,medium,1.0,10.5,3978.0,378.0,994.5,53.76
+Xavier,Puig Soler,52824042Z,Espanya,Tarragona,Dona,1962-10-09,2876.0,Grup D,Administratiu,0,,,,19.1,Espanya,67.0,6.9,Mediterrani,both,8.0,0.0,64,1.5,medium,1.0,10.5,3177.98,301.98,3177.98,47.43
+Nicolas,David,92727823A,França,Marseille,Dona,2000-04-03,2936.0,Grup D,Analista,0,False,,,14.6,França,72.0,7.4,Mediterrani,both,8.0,0.0,26,0.0,medium,1.0,9.0,3200.24,264.24,3200.24,44.45
+Sergio,Puig Fernández,54962735Q,Espanya,Alacant,Home,1977-04-27,3330.0,Grup D,Tècnic IT,0,,,,17.4,Espanya,68.0,7.0,Mediterrani,both,8.0,0.0,49,2.0,medium,1.0,11.0,3696.3,366.3,3696.3,54.36
+Alessandro,Rossi Marino,64319134R,Itàlia,Napoli,Home,1990-05-16,3423.0,Grup D,Cap de projecte,0,True,32431.0,0.5,13.6,Itàlia,65.0,6.5,Mediterrani,both,8.0,0.0,36,1.0,low,0.0,9.0,3731.07,308.07,3731.07,57.4
+Lucía,Sánchez,78555677A,Espanya,Bilbao,Altres,1990-09-15,2947.0,Grup D,Responsable de vendes,2,True,18402.0,,15.5,Espanya,72.0,7.8,Oceànic,both,8.0,1.5,36,1.0,medium,1.0,11.5,3285.9,338.9,1095.3,45.64
+Oriol,Álvarez Torres,41463449C,Espanya,Murcia,Home,1966-01-25,3437.0,Grup D,Responsable de vendes,3,,,,19.0,Espanya,60.0,6.5,Mediterrani,both,8.0,1.5,60,1.5,low,0.0,11.0,3815.07,378.07,953.77,63.58
+Pau,Casals Costa,73889311E,Espanya,Madrid,Altres,1998-04-02,3600.0,Grup D,Cap de projecte,4,True,28988.0,25.0,16.9,Espanya,75.0,8.0,Continental,both,8.0,1.5,28,0.0,high,2.0,11.5,4014.0,414.0,802.8,53.52
+Alejandro,Pujol,38935409L,Espanya,A Coruña,Home,2004-03-31,3068.0,Grup D,Analista de dades,3,,,,15.4,Espanya,69.0,7.1,Oceànic,both,8.0,1.5,22,0.0,medium,1.0,10.5,3390.14,322.14,847.54,49.13
+Irene,Ribera,71153456W,Espanya,Zaragoza,Home,1959-07-05,2613.0,Grup D,Administratiu,0,False,,,17.2,Espanya,68.0,7.0,Continental,both,8.0,0.0,67,1.5,medium,1.0,10.5,2887.36,274.36,2887.36,42.46
+Alba,Fernández Torres,29557879Y,Espanya,Alacant,Dona,1964-11-27,3087.0,Grup D,Administratiu,3,True,80000.0,8.7,-10.0,Espanya,68.0,7.0,Mediterrani,both,8.0,1.5,61,1.5,medium,1.0,12.0,3457.44,370.44,864.36,50.84
+Alexia,Navarro,95449737J,Espanya,A Coruña,Home,2002-10-18,2917.0,Grup D,Tècnic IT,4,False,,,13.0,Espanya,69.0,7.1,Oceànic,both,8.0,1.5,23,0.0,medium,1.0,10.5,3223.28,306.28,644.66,46.71
+Paolo,Lombardi De Luca,98399977K,Itàlia,Bologna,Home,1987-10-26,2870.0,Grup D,Tècnic IT,0,False,,,12.0,,,,,left_only,8.0,0.0,38,1.0,,0.0,9.0,3128.3,258.3,3128.3,
+Sergio,García,66650860P,Espanya,Madrid,Home,1985-11-13,2872.0,Grup D,Analista júnior,1,True,80000.0,25.0,14.4,Espanya,75.0,8.0,Continental,both,8.0,1.5,40,1.0,high,2.0,12.5,3231.0,359.0,1615.5,43.08
+Anna,Díaz,33739994X,Espanya,Bilbao,Home,1993-05-31,3672.0,Grup D,Analista sènior,1,True,80000.0,0.5,15.4,Espanya,72.0,7.8,Oceànic,both,8.0,1.5,33,1.0,medium,1.0,11.5,4094.28,422.28,2047.14,56.86
+Sofie,Eriksen Haugen,54363421F,Noruega,Stavanger,Home,2002-11-10,3610.0,Grup D,Tècnic IT,,False,,,6.5,,,,,left_only,8.0,0.0,23,0.0,,0.0,8.0,3898.8,288.8,,
+Joana,Casals,57762576N,Espanya,Màlaga,Home,,2634.0,Grup D,Analista júnior,0,True,20000.0,5.6,18.95,,,,,left_only,8.0,0.0,,0.0,,0.0,8.0,2844.72,210.72,2844.72,
+Víctor,Romero,53025024P,Espanya,Sevilla,Home,1979-11-18,3425.0,Grup D,Analista de dades,4,,,,42.0,Espanya,65.0,7.0,Mediterrani,both,8.0,1.5,46,2.0,low,0.0,11.5,3818.88,393.88,763.78,58.75
+Pau,García Serra,23382149H,Espanya,Bilbao,Home,1995-12-09,3672.0,Grup D,Analista sènior,0,,,,14.8,Espanya,72.0,7.8,Oceànic,both,8.0,0.0,30,1.0,medium,1.0,10.0,4039.2,367.2,4039.2,56.1
+Marina,Moreno Pérez,90337084Z,Espanya,Las Palmas de Gran Canaria,Home,1998-01-25,2721.0,Grup D,Analista de dades,3,False,,,23.5,Espanya,62.0,6.8,Subtropical,both,8.0,1.5,28,0.0,low,0.0,9.5,2979.5,258.5,744.88,48.06
+Marc,Hernández,63504799P,Espanya,Zaragoza,Home,1990-11-30,3486.0,Grup D,Tècnic IT,0,True,35591.0,,14.9,Espanya,68.0,7.0,Continental,both,8.0,0.0,35,1.0,medium,1.0,10.0,3834.6,348.6,3834.6,56.39
